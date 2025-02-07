@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: The one sheet solo materials for FORGE
 description: Here you can find materials that can be printed double sided to use with FORGE. Primarily designed for solo play but can be reused as referee reference material
-show_downloads: true
+show_downloads: false
