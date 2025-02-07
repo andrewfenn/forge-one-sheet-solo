@@ -36,6 +36,10 @@ Once you've generated a tile and its features, proceed to:
 
 An encounter check is rolled once a day whilst travelling, once for every foraging or hex search attempt, and once per night if resting.
 
+### Source files
+
+The source files to edit the PDF are available on [Github](https://github.com/andrewfenn/forge-one-sheet-solo). They were created in a program called [Inkscape](https://inkscape.org/) that can be downloaded and used for free.
+
 ### License
 
 All materials in this work are licensed under the same terms as **F.O.R.G.E.**—the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
