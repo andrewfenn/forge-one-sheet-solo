@@ -33,9 +33,9 @@ For additional details, roll a **_d6_** to determine any water, plant, or land f
 Once you've generated a tile and its features, proceed to:
 - **Bottom-left section**: Roll for weather
 - **Encounter Checks (the next table over)**:
-  - *Danger or Discovery* then roll for what it is using the tables spanning vertically down the left of the page
-  - *Roll risk* requires a **_d6_** roll—check using the table to the left of encounter checks
-  - *Discovery when searching* occurs only if the party actively searches.
+  - *Danger or Discovery* - Roll for what it is using the tables spanning vertically down the right of the page
+  - *Roll risk* - This requires a **_d6_** roll—check using the table to the right of encounter checks
+  - *Discovery when searching* - This occurs only if the party is performing a search action.
 
 An encounter check is rolled once a day whilst travelling, once for every foraging or hex search attempt, and once per night if resting.
 
