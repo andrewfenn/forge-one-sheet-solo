@@ -6,7 +6,7 @@ This is a small project I created to help me understand solo play better using t
 
 The sheets come in PDF format of A4 size in two pages. They should be printed two-sided. Make sure when printing you select the options "Fit to printable areas" and for best quality select 600 dpi, not 300 dpi.
 
-# 
+# ‎ ‎‎
 
 This sheet features a hex map with all the information needed to generate tiles. On the reverse side are tables to all the generation tables you will require for play with references to the pages found in the book.
 
