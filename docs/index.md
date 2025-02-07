@@ -13,7 +13,8 @@ This sheet features a hex map with all the information needed to generate tiles.
 [![Overland Preview Thumbnail](https://github.com/andrewfenn/forge-one-sheet-solo/blob/main/docs/overland-prev-1.png?raw=true)](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf) [![Overland Preview Thumbnail](https://github.com/andrewfenn/forge-one-sheet-solo/blob/main/docs/overland-prev-2.png?raw=true)](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf)
 
 #### Download
-[FORGE - Single Sheet Overland.pdf](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf) - 3.9 MB
+[FORGE - Single Sheet Overland.pdf](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf) - 3.9 MB - The PDF for playing with
+[FORGE - Single Sheet Overland - Source File.svg](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland%20-%20Source%20File.svg) - 12.8 MB - The source files that can be edited in [Inkscape](https://inkscape.org/).
 
 #### Starting a Game
 To begin, roll a six-sided die **_(d6)_** or choose a wilderness type:  
