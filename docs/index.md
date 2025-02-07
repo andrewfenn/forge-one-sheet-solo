@@ -24,7 +24,7 @@ To begin, roll a six-sided die **_(d6)_** or choose a wilderness type:
 - **Desert**  
 - **Mountain**  
 
-#### Generating Hex Tiles  
+#### Generating New Hex Tiles  
 To generate a new hex tile, will roll two six sided die, and add the result together **_(2d6)_**. Use the table to determine the terrain type based on the adjacent starting tile.  
 
 For additional details, roll a **_d6_** to determine any water, plant, or land features. The table on this sheet provides options, but you can refer to the rulebook for more variety.  
