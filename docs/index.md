@@ -6,7 +6,7 @@ This is a small project I created to help me understand solo play better using t
 
 The sheets come in PDF format of A4 size in two pages. They should be printed two-sided. Make sure when printing you select the options "Fit to printable areas" and for best quality select 600 dpi, not 300 dpi.
 
-# Overland Traversal
+# 
 
 This sheet features a hex map with all the information needed to generate tiles. On the reverse side are tables to all the generation tables you will require for play with references to the pages found in the book.
 
@@ -14,8 +14,6 @@ This sheet features a hex map with all the information needed to generate tiles.
 
 #### Download
 [FORGE - Single Sheet Overland.pdf](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf) - 3.9 MB - The PDF for playing with
-
-[FORGE - Single Sheet Overland - Source File.svg](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland%20-%20Source%20File.svg) - 12.8 MB - The source files that can be edited in [Inkscape](https://inkscape.org/).
 
 #### Starting a Game
 To begin, roll a six-sided die **_(d6)_** or choose a wilderness type:  
