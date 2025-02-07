@@ -10,7 +10,7 @@ The sheets come in PDF format of A4 size in two pages. They should be printed tw
 
 This sheet features a hex map with all the information needed to generate tiles. On the reverse side are tables to all the generation tables you will require for play with references to the pages found in the book.
 
-[![Overland Preview Thumbnail](https://github.com/andrewfenn/forge-one-sheet-solo/blob/main/docs/overland-prev-1.png?raw=true)](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf) [![Overland Preview Thumbnail](https://github.com/andrewfenn/forge-one-sheet-solo/blob/main/docs/overland-prev-2.png?raw=true)](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf)
+![Overland Preview Thumbnail](https://github.com/andrewfenn/forge-one-sheet-solo/blob/main/docs/overland-prev-1.png?raw=true) ![Overland Preview Thumbnail](https://github.com/andrewfenn/forge-one-sheet-solo/blob/main/docs/overland-prev-2.png?raw=true)
 
 #### Download
 [FORGE - Single Sheet Overland.pdf](https://raw.githubusercontent.com/andrewfenn/forge-one-sheet-solo/refs/heads/main/FORGE%20-%20Single%20Sheet%20Overland.pdf) - 3.9 MB
